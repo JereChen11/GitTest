@@ -1,4 +1,5 @@
 # GitTest
 For git command practice
 
-chagne README file on the main branch
+chagne README file, fix conflict on merge action.
+
